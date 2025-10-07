@@ -453,7 +453,6 @@ a:hover {
 
 .banner-image {
   position: absolute;
-  top: 110%;
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
